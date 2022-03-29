@@ -1,4 +1,3 @@
-from curses import flash
 import numpy as np
 
 from flash import enums
